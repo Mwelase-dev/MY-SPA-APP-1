@@ -1,0 +1,5 @@
+C:\Users\Mwelase\Documents\Dreamsmiths Assesment\Dreamsmith Assesment_TicTacToe\TicTacToeGameLogic\bin\Debug\TicTacToeGameLogic.dll
+C:\Users\Mwelase\Documents\Dreamsmiths Assesment\Dreamsmith Assesment_TicTacToe\TicTacToeGameLogic\bin\Debug\TicTacToeGameLogic.pdb
+C:\Users\Mwelase\Documents\Dreamsmiths Assesment\Dreamsmith Assesment_TicTacToe\TicTacToeGameLogic\obj\Debug\TicTacToeGameLogic.dll
+C:\Users\Mwelase\Documents\Dreamsmiths Assesment\Dreamsmith Assesment_TicTacToe\TicTacToeGameLogic\obj\Debug\TicTacToeGameLogic.pdb
+C:\Users\Mwelase\Documents\Dreamsmiths Assesment\Dreamsmith Assesment_TicTacToe\TicTacToeGameLogic\obj\Debug\TicTacToeGameLogic.csprojResolveAssemblyReference.cache
